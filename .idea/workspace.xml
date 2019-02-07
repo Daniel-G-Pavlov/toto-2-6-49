@@ -2,6 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b0a25976-80f9-46f7-bab9-9a3a611be971" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Stady/Main/Toto.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Stady/Main/Toto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Stady/Main/TotoFrame$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Stady/Main/TotoFrame$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Stady/Main/TotoFrame$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Stady/Main/TotoFrame$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Stady/Main/TotoFrame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Stady/Main/TotoFrame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main/Toto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main/Toto.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main/TotoFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main/TotoFrame.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -16,8 +22,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Main/Toto.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+            <state relative-caret-position="600">
+              <caret line="35" column="32" selection-start-line="35" selection-start-column="32" selection-end-line="35" selection-end-column="32" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -28,26 +34,20 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main/TotoFrame.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="37" column="38" selection-start-line="37" selection-start-column="38" selection-end-line="37" selection-end-column="38" />
+            <state relative-caret-position="312">
+              <caret line="50" column="12" selection-start-line="50" selection-start-column="12" selection-end-line="50" selection-end-column="12" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1313#1314#0" expanded="true" />
-                <element signature="e#1387#1388#0" expanded="true" />
-                <element signature="e#1645#1646#0" expanded="true" />
-                <element signature="e#1711#1712#0" expanded="true" />
+                <element signature="e#1725#1726#0" expanded="true" />
+                <element signature="e#1799#1800#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/awt/event/ActionListener.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="520">
-              <caret line="49" column="13" lean-forward="true" selection-start-line="49" selection-start-column="3" selection-end-line="49" selection-end-column="47" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/Stady.iml">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -77,10 +77,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1616" />
-    <option name="height" value="876" />
+    <option name="x" value="281" />
+    <option name="y" value="99" />
+    <option name="width" value="1095" />
+    <option name="height" value="682" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -88,8 +88,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -122,8 +122,9 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549489923434" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549565669708" />
     <property name="extract.method.default.visibility" value="private" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -170,26 +171,27 @@
       <workItem from="1549466130936" duration="12357000" />
       <workItem from="1549485584532" duration="1320000" />
       <workItem from="1549488096929" duration="1833000" />
+      <workItem from="1549557270019" duration="8122000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15510000" />
+    <option name="totallyTimeSpent" value="23632000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11118252" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.124678664" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="0" weight="0.22177419" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.2204301" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" />
-      <window_info anchor="bottom" id="Run" order="3" weight="0.18145162" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.2701613" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
@@ -244,36 +246,28 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="jar://D:/Program Files/Java/jdk1.8.0_192/src.zip!/java/awt/event/ActionListener.java" />
-    <entry file="file://$PROJECT_DIR$/Stady.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/awt/event/ActionListener.java" />
     <entry file="file://$PROJECT_DIR$/src/Main/Toto.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        <state relative-caret-position="600">
+          <caret line="35" column="32" selection-start-line="35" selection-start-column="32" selection-end-line="35" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/awt/event/ActionListener.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="520">
-          <caret line="49" column="13" lean-forward="true" selection-start-line="49" selection-start-column="3" selection-end-line="49" selection-end-column="47" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/Stady.iml">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Main/TotoFrame.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="37" column="38" selection-start-line="37" selection-start-column="38" selection-end-line="37" selection-end-column="38" />
+        <state relative-caret-position="312">
+          <caret line="50" column="12" selection-start-line="50" selection-start-column="12" selection-end-line="50" selection-end-column="12" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1313#1314#0" expanded="true" />
-            <element signature="e#1387#1388#0" expanded="true" />
-            <element signature="e#1645#1646#0" expanded="true" />
-            <element signature="e#1711#1712#0" expanded="true" />
+            <element signature="e#1725#1726#0" expanded="true" />
+            <element signature="e#1799#1800#0" expanded="true" />
           </folding>
         </state>
       </provider>

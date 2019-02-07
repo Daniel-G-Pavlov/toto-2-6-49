@@ -27,7 +27,11 @@ public class Toto {
 
 //          Select numbers
 //        Избор на числа
-        choiceOfNumer(ChoiceOfTheNumbers);
+//        choiceOfNumer(ChoiceOfTheNumbers);
+
+//        TotoFrame(buttonTable(ChoiceOfTheNumbers));
+
+
 
 //          Download the numbers
 //        Изтегляне на числата
