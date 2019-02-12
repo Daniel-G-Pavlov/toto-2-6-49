@@ -77,7 +77,7 @@ public class TotoFrame extends JFrame {
         buttons.addActionListener(new ActionListener() {
             public void actionPerformed(ActionEvent event) {
                 buttons.setBackground(Color.green);
-                choisTaierd[numbar1[0]] = TotoFrame.this.choisFirstNumber(buttons, numbar, choisSecond);
+                choisTaierd[numbar1[0]] = TotoFrame.this.choisFirstNumber(buttons,  choisSecond);
                 ++numbar1[0];
                 System.out.print(" =-= " + choisTaierd[numbar1[0]]);
                 System.out.println(" ? " + numbar1[0]);
@@ -86,9 +86,10 @@ public class TotoFrame extends JFrame {
         return choisTaierd;
     }
 
-    public int choisFirstNumber(JButton buttons, int numbar, int choisSecond) {
+    public int choisFirstNumber(JButton buttons,  int choisSecond) {
+        int choisFirst = 0;
         for(int i = 1; i <= 49; ++i) {
-            int choisFirst = Integer.parseInt(buttons.getText());
+            choisFirst = Integer.parseInt(buttons.getText());
             if (choisFirst == i) {
                 choisSecond = choisFirst;
                 System.out.print("->" + choisFirst);
